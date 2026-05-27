@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdalculate",
+        "uuid": 32646902,
+        "checksum": "pkg3p"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
